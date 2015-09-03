@@ -1,0 +1,5 @@
+Created a Topology of Y Switches and X Hosts per each Switch.
+
+X and Y are inputs given by user.
+
+Even number hosts are created under different subnet and Odd Number Hosts are created under another subnet so that they can only ping within themselves not outside the group.
